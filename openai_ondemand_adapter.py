@@ -49,7 +49,7 @@ MODEL_MAP = {
     "gpt-4o-mini": "predefined-openai-gpt4o-mini",
     "deepseek-v3": "predefined-deepseek-v3",
     "deepseek-r1": "predefined-deepseek-r1",
-    "claude-3.7-sonnet": "predefined-claude-3.7-sonnet",
+    "claude-4.0-sonnet": "predefined-claude-4-sonnet",
     "gemini-2.0-flash": "predefined-gemini-2.0-flash",
 }
 DEFAULT_ONDEMAND_MODEL = "predefined-openai-gpt4o"
